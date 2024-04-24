@@ -1,0 +1,2 @@
+# proxecto
+Utiliser R Studio
